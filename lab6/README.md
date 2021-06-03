@@ -14,9 +14,9 @@
 ### Инструкция учебного материала
 
 ```sh
-$ git clone https://github.com/lozchkavarene/Report_05 projects/Report_06
+$ git clone https://github.com/lozchkavarene/lab5timp projects/lab6
 $ git remote remove origin
-$ git remote add origin https://github.com/$lozchkaarene/lab6timp
+$ git remote add origin https://github.com/$lozchkaarene/lab6
 ```
 
 ```sh
